@@ -46,9 +46,9 @@
             'imagem'=>'img/img7.jpg', 
             'title_img'=>'Marmita Serrana'),
         7 => array('id'=>'8', 
-            'titulo'=>'Marmita Caseira nº 8', 
+            'titulo'=>'Marmita Completa Executiva R$ 22.00', 
             'data'=>'2022-08-13', 
             'descricao'=>'Arroz, Feijão, Nhoque, Frango Empanado, Cozido, banana frita e Salada',
             'imagem'=>'img/img8.jpg', 
-            'title_img'=>'Marmita Caseira nº 8'),
+            'title_img'=>'Marmita Completa Executiva'),
     );
